@@ -1,0 +1,18 @@
+.form-input-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
+
+.form-input-wrapper input {
+  width: 200px;
+}
+
+.submit-button {
+  text-align: center;
+}
+
+.table-wrapper {
+  text-align: center;
+}
